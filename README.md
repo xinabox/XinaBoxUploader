@@ -4,5 +4,7 @@ Please visit this help page to learn more about the [XinaBox Uploader](https://m
 
 ### Software
 Find the latest version of the [XinaBox Uploader here](https://github.com/xinabox/XinaBoxUploader/releases/latest)
+- .exe for Microsoft Windows
+- .dmg for Apple MacOS
 
 
